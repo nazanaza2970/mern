@@ -1,0 +1,19 @@
+{
+  "name": "mern-tutorial",
+  "version": "1.0.0",
+  "description": "restapi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazanaza2970/mern-tutorial.git"
+  },
+  "author": "nazanaza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nazanaza2970/mern-tutorial/issues"
+  },
+  "homepage": "https://github.com/nazanaza2970/mern-tutorial#readme"
+}
